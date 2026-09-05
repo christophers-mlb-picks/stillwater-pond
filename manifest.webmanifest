@@ -1,0 +1,17 @@
+{
+  "name": "Stillwater",
+  "short_name": "Stillwater",
+  "description": "A daily mind-pond for settling mind storms.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a1218",
+  "theme_color": "#0a1218",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
